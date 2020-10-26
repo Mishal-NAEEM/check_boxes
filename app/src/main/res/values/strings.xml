@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Check_boxes</string>
+    <string name="languages">Select any of below</string>
+    <string name="cb1">red</string>
+    <string name="cb2">green</string>
+    <string name="cb3">Blue</string>
+    <string name="cb4">orange</string>
+</resources>
